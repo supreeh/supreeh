@@ -2,21 +2,28 @@
 
  <details>
 <summary> who_am_i </summary>
- 
-> <sup> ➡️ my name is nick 'supreeh' ⬅️ </sup>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+<sup> ➡️ my name is nick 'supreeh' ⬅️ </sup>
 
 </details>
 
 <details>
 <summary> about_me </summary>
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
  
-> <sup>🔭  i'm currently working on learning python 🔭</sup>
+<sup>🔭  i'm currently working on learning python 🔭</sup>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-> <sup>🌱  i'm currently learning everything about information technology 🌱</sup>
+<sup>🌱  i'm currently learning everything about information technology 🌱</sup>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-> <sup>🥙  ask me anything about kebab 🥙</sup>
+<sup>🥙  ask me anything about kebab 🥙</sup>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-> <sup>👴  i'm an really old, young dude 👴</sup>
+<sup>👴  i'm an really old, young dude 👴</sup>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 </details>
 <details>
 <summary> my_cat </summary>
