@@ -20,6 +20,6 @@
 </details>
 <details>
 <summary> my_cat </summary>
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ad9f02ea-5189-4a98-88af-dda4441eab07" />
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/ad9f02ea-5189-4a98-88af-dda4441eab07" />
 
 </details>
