@@ -1,9 +1,9 @@
-# howdy partner! 👋<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/acc68779-8dd5-4bc5-816d-40ea2ee7d782" />
+### howdy partner! 👋<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/acc68779-8dd5-4bc5-816d-40ea2ee7d782" />
 
  <details>
-<summary> who_i_am </summary>
+<summary> who_am_i </summary>
  
-<sup> my name is nick 'supreeh' </sup>
+> <sup> ➡️ my name is nick 'supreeh' ⬅️ </sup>
 
 </details>
 
@@ -20,6 +20,8 @@
 </details>
 <details>
 <summary> my_cat </summary>
-<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/ad9f02ea-5189-4a98-88af-dda4441eab07" />
+ 
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/0ce07fc3-940c-4357-ba88-338ddabd7516" />
+
 
 </details>
